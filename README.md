@@ -20,7 +20,6 @@
     - Grape: 1.3.1
     - mysql: 5.7
     - python: 3.6.5
-  <!-- TODO: 確認 -->
   - フロントエンド
     - TypeScrip: 3.7.5
     - Vue.js: 2.6.12
@@ -51,37 +50,17 @@
     - CloudWatch Events / Amazon ECSを用いた定期メール通知基盤の構築
   - テキスト検索基盤の構築 (2020年9月)
     - Amazon Elasticsearch Service を用いた検索基盤の構築
-  - プロダクトのリプレイス (2020年 4 ~ 8月)
+  - プロダクトのリプレイス (2020年 2月 ~ 8月)
     - 技術的負債解消のための、プロダクトリプレイス
       - 認証基盤: Amazon Cognito
       - フレームワーク： Ruby on Rails
       - REST APIフレームワーク: grape
       - DB: Amazon Relational Database Service (RDS)
       - インフラ基盤: AWS Elastic Beanstalk
-  - iOS アプリのリニューアル
-    - webview の IOS アプリをスマホ最適化した画面へのリプレイス
-      - Vue.js
-      - ruby / rails
-  - iOS アプリの push 通知機構の作成
-    - python
-    - lambda
-  - リファクタリングのための we アプリケーションの全リプレイス
-    - 技術要件の設計
-    - 実装
-      - バックエンド
-        - grape api / rails / ruby
-      - インフラ
-        - elastic beansatlk / ec2 / RDS
-  - 管理画面作成
-    - active_admin
-- 使用技術
-  - AWS
-    - lambda
-    - ec2
-    - elastic beanstalk
-  - ruby
-  - python
-  - swift
+      - 管理画面: ActiveAdmin
+  - プロダクトの保守・機能開発(2019年 6月 ~ 2020年1月)
+  - iOSアプリのリプレイス(2019年10月)
+    - webview の IOS アプリをスマホ最適化した画面へのリプレイ
 
 ### コインチェック株式会社
 
