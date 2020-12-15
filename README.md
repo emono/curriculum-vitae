@@ -14,7 +14,7 @@
 - 役職： バックエンドエンジニア（リードエンジニア）
 - 業務概要
   - エンタープライズ向け、情報共有SaaSのAnewsのプロダクト開発
-    - https://stockmark.co.jp/product/anews/)
+    - https://stockmark.co.jp/product/anews/
 - 業務詳細
   - Push通知基盤の開発 (2020年11月)
     - Firebase Cloud Messaging / SQS を用いたPush通知基盤の構築
