@@ -13,7 +13,8 @@
 - 期間： 2019 年 7 月 ~ 現在
 - 役職： バックエンドエンジニア（リードエンジニア）
 - 業務概要
-  - エンタープライズ向け、情報共有SaaSのAnews (https://stockmark.co.jp/product/anews/) のプロダクト開発
+  - エンタープライズ向け、情報共有SaaSのAnewsのプロダクト開発
+    - https://stockmark.co.jp/product/anews/)
 - 業務詳細
   - Push通知基盤の開発 (2020年11月)
     - Firebase Cloud Messaging / SQS を用いたPush通知基盤の構築
@@ -69,7 +70,8 @@
 - 期間： 2017 年 8 月 - 2019 年 6 月
 - 役職： バックエンドエンジニア、バックオフィス、カスタマーサポート
 - 業務概要
-  - 仮想通貨取引所サービス、コインチェック(https://coincheck.com/ja/) のプロダクト開発
+  - 仮想通貨取引所サービス、コインチェックのプロダクト開発
+    - https://coincheck.com/ja/)
 - 業務詳細
   - 顧客の入出金システムの開発
     - ruby / sidekiq / selenium を用いた、顧客の入出金処理を実施
@@ -92,7 +94,8 @@
 
 - 期間： 2015 年 ４月 - 2017 年 7月
 - 業務概要
-  - 自治体向けグループウェア、Joy'n Do(https://www.fujitsu.com/jp/solutions/industry/public-sector/local-government/solutions/ipknowledge/groupware/) の導入・保守
+  - 自治体向けグループウェア、Joy'n Doの導入・保守
+    - https://www.fujitsu.com/jp/solutions/industry/public-sector/local-government/solutions/ipknowledge/groupware/
 - 業務詳細
   - 自治体向けグループウェアの構築
     - オンプレサーバの設定
