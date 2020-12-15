@@ -115,9 +115,11 @@
 
 ## 個人開発
 - chips
-  - Flutter / Firebaseを用いたメモアプリ
+  - Flutter / Firebaseを用いて作成したメモアプリ
   - https://apps.apple.com/jp/app/chips/id1494072783
 - モジネコ
-  - LINEに画像をアップロードすると、OCRしてくれるLINEアプリ
+  - 画像をアップロードすると、OCRしてくれるLINEアプリ
+  - Firebase Cloud Functions / TypeScript /  
+Google Cloud Vision APIを用いて作成
   - https://twitter.com/mojineko_jp
   
